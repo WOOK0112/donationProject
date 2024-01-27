@@ -31,17 +31,89 @@
 <table>
   <thead>
     <tr>
-      <th style='text-align: center'>큐레이션 발행</th>
-      <th style='text-align: center'>큐레이션 수정 / 삭제</th>
+      <th style='text-align: center'>메인페이지</th>
+      <th style='text-align: center'>채팅방생성 및 채팅</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/22857210-57dd-4ca5-9107-669cd3f75f91' alt='curation create' />
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/7b35d5cf-2beb-4505-ac62-d34dd9ea93f2' />
       </td>
       <td>
-        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/6fca8e85-09db-450d-ae61-7e610949bb2e' alt='curation update/delete' />
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/05316a10-64c3-441e-91a7-c0a0c99f0573' />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>개인회원가입</th>
+      <th style='text-align: center'>기관회원가입</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/b249cc68-b85d-44b4-918d-f4e0c22c1ffe' />
+      </td>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/d663c406-a6f8-40f4-a20c-4c1608a0d1b8' />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>로그인</th>
+      <th style='text-align: center'>마이페이지</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/b92117df-70cd-4186-adc9-3c657206a203' />
+      </td>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/7f2194c2-62b2-48f2-80d5-57bc5186c3ab' />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>게시글작성</th>
+      <th style='text-align: center'>게시글수정 및 삭제</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 450px;' src='' />
+      </td>
+      <td>
+        <img style='width: 450px;' src='' />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>커뮤니티 게시글 작성 및 수정</th>
+      <th style='text-align: center'>커뮤니티 게시글 페이징 및 정</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/5efa5490-9d06-41ec-bb4d-b2121d448ca5' />
+      </td>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/124886494/f1d27d1a-3482-4565-b4dc-b0feff04e58a' />
       </td>
     </tr>
   </tbody>
