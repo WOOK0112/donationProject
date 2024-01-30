@@ -188,4 +188,4 @@
 <img width="925" alt="image" src="https://github.com/codestates-seb/seb44_main_004/assets/124886494/e703c574-4d79-4f18-86b9-f48a434a0823">
 
 ## 4. ERD
-<img width="638" alt="image" src="https://github.com/codestates-seb/seb44_main_004/assets/124886494/807ba7ca-d471-4977-b631-dcbebfb1bbc7">
+<img width="925" alt="image" src="https://github.com/codestates-seb/seb44_main_004/assets/124886494/c6a9336e-fff4-4953-8ca9-b4c6801fe5f7">
